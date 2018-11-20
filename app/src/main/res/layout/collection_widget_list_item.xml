@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Defines the layout of each list item -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/_3dp"
+    android:weightSum="2"
+    android:id="@+id/widgetItemContainer">
+
+        <TextView
+            android:id="@+id/widgetItemIngredientLabel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_8dp"
+            android:gravity="start"
+            android:layout_weight="1"
+            android:textColor="@android:color/black"/>
+
+
+        <TextView
+            android:id="@+id/widgetItemQuantitynMeasure"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/_8dp"
+            android:gravity="end"
+            android:layout_weight="1"
+            android:textColor="@android:color/black"/>
+
+    </LinearLayout>

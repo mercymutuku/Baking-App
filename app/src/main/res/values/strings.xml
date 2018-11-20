@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="image_main">Main Image</string>
+    <string name="nutella_pie">Nutella pie</string>
+    <string name="error_message">An error occurred</string>
+    <string name="connection_problem">Connection not available</string>
+    <string name="btn_retry_text">RETRY</string>
+    <string name="btn_previous">PREVIOUS</string>
+    <string name="btn_next">NEXT</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="ingredient">Ingredient</string>
+    <string name="quantity">Quantity: </string>
+    <string name="measure">Measure: </string>
+    <string name="steps">Steps</string>
+    <string name="Step_video">Step Video</string>
+    <string name="step_description">step description goes here</string>
+    <string name="step_short_description">step short description goes here</string>
+    <string name="widget_recipe_image">widget recipe image</string>
+
+    <string name="appwidget_text">example</string>
+    <string name="add_widget">Add widget</string>
+    <string name="add_to_widget">Add to widget</string>
+    <string name="RecipeIngredients">Recipe Ingredients</string>
+</resources>

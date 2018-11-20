@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widget_margin">8dp</dimen>
+    <dimen name="_3dp">3dp</dimen>
+    <dimen name="_5dp">5dp</dimen>
+    <dimen name="_8dp">8dp</dimen>
+    <dimen name="_26sp">26sp</dimen>
+    <dimen name="height_100dp">100dp</dimen>
+    <dimen name="height_150dp">150dp</dimen>
+    <dimen name="_250dp">250dp</dimen>
+
+</resources>
